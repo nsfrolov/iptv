@@ -1,89 +1,72 @@
 #EXTM3U
 #PLAYLIST:IPTV
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" tvg-name="Первый канал",Первый канал
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-name="Россия-1",Россия 1
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!",Матч! ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-name="НТВ",Телекомпания НТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" tvg-name="Пятый канал",5 канал
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-name="Россия-К",Культура
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-name="Россия-24",Россия 24 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://live.smotrim.ru/vgtrk/0/russia24-hd/720p.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-name="Карусель",Карусель
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png" tvg-name="Общественное Телевидение России",ОТР
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg" tvg-name="ТВ Центр",ТВ Центр
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-name="РЕН ТВ",Рен ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="Spas.ru" tvg-logo="https://i.imgur.com/yY39nMg.png" tvg-name="Спас",Спас
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
-http://tvspas.mediacdn.ru/cdn/spas/index.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-name="СТС",СТС
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" tvg-name="Dомашний",Домашний
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png" tvg-name="ТВ-3",ТВ 3
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" tvg-name="Пятница!",Пятница!
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://river-6-601.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/_sRnr_uYadmGG_PpUEcn1A/1789067106/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-name="Звезда",Звезда
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-name="Мир",МИР
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://river-6-602.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/PkVwNPGCvYqxc8T5QXqy2w/1789067111/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-name="ТНТ",ТНТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
-http://river-6-601.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/rD_N124I9Ab9c9Bjbw4eFw/1789067474/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-name="Муз-ТВ",Муз-ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://river-6-603.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/qri7R_qBF3crmADLj0zVOQ/1789153033/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
-
-
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Брянская Губерния",Брянская Губерния
-https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_BRGRUBER/variant.m3u8
+#EXTINF:-1 tvg-id="briansk24",Брянск 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_BRYANSK24/variant.m3u8
 
 #EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-logo="https://i.imgur.com/IcWtXCZ.png" tvg-name="Ювелирочка",Ювелирочка
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
