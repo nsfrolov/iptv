@@ -112,6 +112,8 @@ http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="super",Суббота
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://iptvx.one/picons/terra-ru.png",TERRA
+http://iptv.mega.net.ru:8888/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Охотник и Рыболов HD.png",Охотник и Рыболов HD
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream1.cinerama.uz/1413/tracks-v1a1/mono.m3u8
