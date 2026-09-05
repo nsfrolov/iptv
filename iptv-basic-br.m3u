@@ -140,6 +140,8 @@ https://stream1.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КХЛ
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream1.cinerama.uz/1422/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png",Матч! Страна
+https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мультиландия.png",Мультиландия
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
@@ -156,7 +158,7 @@ https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png",Русский детектив
-http://192.162.64.99:5100/play/a021/index.m3u8
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png",Мульт
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
