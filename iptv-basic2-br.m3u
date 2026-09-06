@@ -94,8 +94,6 @@ http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #EXTINF:-1,Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
-#EXTINF:-1,Киносвидание
-https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
