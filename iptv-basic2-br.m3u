@@ -120,6 +120,12 @@ https://stream1.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="super",Суббота
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-id="sarafan" tvg-logo="https://iptvx.one/picons/sarafan.png",Сарафан
+http://iptv.mega.net.ru:8888/Sarafan/index.m3u8
+#EXTINF:-1 tvg-id="telekafe" tvg-logo="https://iptvx.one/picons/telekafe.png",Телекафе
+http://iptv.mega.net.ru:8888/Telekafe/index.m3u8
+#EXTINF:-1 tvg-id="gags-network" tvg-logo="https://iptvx.one/picons/gags-network.png",Gags Network
+http://iptv.mega.net.ru:8888/Gagsnetwork/index.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://iptvx.one/picons/terra-ru.png",TERRA
 http://iptv.mega.net.ru:8888/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Охотник и Рыболов HD.png",Охотник и Рыболов HD
