@@ -110,8 +110,6 @@ https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 http://iptv.mega.net.ru:8888/Pobeda/index.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png",День Победы
-http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
 #EXTINF:-1,Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1,Amedia 2
@@ -119,9 +117,6 @@ https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 #EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream1.cinerama.uz/1236/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KinoTV.ru" tvg-logo="https://i.imgur.com/L01RjKe.png" tvg-name="Кино ТВ",Кино ТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="super",Суббота
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
