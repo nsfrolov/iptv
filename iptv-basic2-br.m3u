@@ -177,7 +177,7 @@ https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мульт.png",Мульт
 #EXTVLCOPT:http-user-agent=TiviMate
-https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="JimJam.ru@SD" tvg-logo="http://smotrim.org/images/jimjam.jpg",JimJam
 http://stream.mcquack.net/150/index.m3u8
 #EXTINF:-1 tvg-id="Unikum.ru@SD" tvg-logo="https://i.imgur.com/kSJZjDL.png",Детский
